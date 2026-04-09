@@ -9,7 +9,6 @@ This repository provides the code and models for CSIR3D.
 ## 📢 News
 * 🚧 **[March, 2026]** We are currently organizing the code. The full implementation will be publicly released soon. Stay tuned!
 
-> Briefly explain the core innovation of CSIR3D here. 
 
 ## 🛠️ TODO List
 - [ ] Release core network architecture (CSIR3D)
