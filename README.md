@@ -4,10 +4,9 @@ CSIR3D: Single-View Indoor 3D Object Detection via Geometric Feature Restoration
 
 Official implementation of the paper **"CSIR3D: Single-View Indoor 3D Object Detection via Geometric Feature Restoration"**. 
 
-This repository provides the code and models for CSIR3D, focusing on addressing the challenges of lacking texture features and highly fragmented point cloud structures in automated logistics scenarios.
+This repository provides the code and models for CSIR3D.
 
 ## 📢 News
-*
 * 🚧 **[March, 2026]** We are currently organizing the code. The full implementation will be publicly released soon. Stay tuned!
 
 > Briefly explain the core innovation of CSIR3D here. 
