@@ -13,5 +13,4 @@ This repository provides the code and models for CSIR3D.
 ## 🛠️ TODO List
 - [ ] Release core network architecture (CSIR3D)
 - [ ] Release multi-modal fusion modules
-- [ ] Provide pre-trained weights
 - [ ] Update detailed installation and training instructions
